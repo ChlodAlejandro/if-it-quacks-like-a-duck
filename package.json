@@ -1,0 +1,24 @@
+{
+  "name": "if-it-quacks-like-a-duck",
+  "version": "1.0.0",
+  "description": "Determine if something quacks like a duck.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChlodAlejandro/if-it-quacks-like-a-duck.git"
+  },
+  "keywords": [
+    "duck",
+    "quack",
+    "equality"
+  ],
+  "author": "Chlod Alejandro <chlod@chlod.net> (https://chlod.net)",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/ChlodAlejandro/if-it-quacks-like-a-duck/issues"
+  },
+  "homepage": "https://github.com/ChlodAlejandro/if-it-quacks-like-a-duck#readme"
+}
